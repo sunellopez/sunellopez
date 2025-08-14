@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sunel López</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
-- 🔭 I’m currently working on **Angular Web App**
-
-- 🌱 I’m currently learning **Ionic**
-
-- 👯 I’m looking to collaborate on **web development**
-
-- 🤝 I’m looking for help with **backend development**
-
 - 💬 Ask me about **Angular, Laravel, Ionic**
 
 - 📫 How to reach me **sunellopez@gmail.com**
